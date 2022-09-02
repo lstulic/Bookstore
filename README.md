@@ -1,1 +1,1 @@
-School project application for bookstore
+School project application for bookstore made in C#
